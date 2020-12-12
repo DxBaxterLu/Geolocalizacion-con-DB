@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "489231998770",
+    "project_id": "geolocalizacion-298320",
+    "storage_bucket": "geolocalizacion-298320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489231998770:android:e5f2c5d557e7934db1812b",
+        "android_client_info": {
+          "package_name": "com.example.storagegeolocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489231998770-c5ofaili76pf67bfbjdh4t5qqf16qgro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.storagegeolocation",
+            "certificate_hash": "2921a0bcf2030a87f38d74bb77bb024073533468"
+          }
+        },
+        {
+          "client_id": "489231998770-0lbdstubs5vo7h05ak53ve4m87d0c2mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9qmeERoL9FOaHnsvbLHJwDNxcFXxFzDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489231998770-0lbdstubs5vo7h05ak53ve4m87d0c2mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
